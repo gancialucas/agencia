@@ -16,6 +16,8 @@ El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su
 ## Fotos del Proyecto
 
 <p align="center"><img src="/public/imagenes/agencia_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imagenes/create_agencia_project.png" width="400" alt="foto_proyecto"></p>
+<p align="center"><img src="/public/imagenes/agencia_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imagenes/update_agencia_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imagenes/delete_agencia_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imagenes/check_delete_agencia_project.png" width="400" alt="foto_proyecto"></p>
