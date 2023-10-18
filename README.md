@@ -36,5 +36,5 @@ El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su
 
 ## License
 
->[email](lucasgancia@gmail.com)
->[LinkedIn](https://www.linkedin.com/in/lucas-hern%C3%A1n-gancia/)
+- [email](lucasgancia@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-hern%C3%A1n-gancia/)
