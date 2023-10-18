@@ -21,13 +21,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## About the Project
+## Acerca del Proyecto - Agencia
 
 Este repositorio contiene el código fuente y los archivos relacionados para una plataforma de una agencia de destinos. Es una aplicación web que presenta un CRUD de "Regiones" y "Destinos", una relacionada con la otra. Es decir, una region puede presentar varios destinos y en caso de hacerlo no podrá ser eliminada. 
 
 El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su vez, aparecerá una tabla que mostrara las mismas. Por otro lado, podrá hacer lo mismo para destinos. 
 
-## Fotos del Projecto
+## Fotos del Proyecto
 
 <p align="center"><img src="/public/imagenes/agencia_project.png" width="400" alt="foto_proyecto"></p>
 <p align="center"><img src="/public/imagenes/update_agencia_project.png" width="400" alt="foto_proyecto"></p>
@@ -36,4 +36,5 @@ El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+>[email](lucasgancia@gmail.com)
+>[LinkedIn](https://www.linkedin.com/in/lucas-hern%C3%A1n-gancia/)
