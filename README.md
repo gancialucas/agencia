@@ -29,10 +29,10 @@ El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su
 
 ## Fotos del Projecto
 
-<img src="/public/imagenes/agencia_project.png" width="400" alt="foto_proyecto">
-<img src="/public/imagenes/update_agencia_project.png" width="400" alt="foto_proyecto">
-<img src="/public/imagenes/delete_agencia_project.png" width="400" alt="foto_proyecto">
-<img src="/public/imagenes/check_delete_agencia_project.png" width="400" alt="foto_proyecto">
+<img align="center" src="/public/imagenes/agencia_project.png" width="400" alt="foto_proyecto">
+<img align="center" src="/public/imagenes/update_agencia_project.png" width="400" alt="foto_proyecto">
+<img align="center" src="/public/imagenes/delete_agencia_project.png" width="400" alt="foto_proyecto">
+<img align="center" src="/public/imagenes/check_delete_agencia_project.png" width="400" alt="foto_proyecto">
 
 ## License
 
