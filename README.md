@@ -22,5 +22,5 @@ El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su
 
 ## Contactame
 
-- <i class="bi bi-envelope"></i> [Email](lucasgancia@gmail.com)
+- [Email](lucasgancia@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/lucas-hern%C3%A1n-gancia/)
