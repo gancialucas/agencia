@@ -27,7 +27,7 @@ Este repositorio contiene el código fuente y los archivos relacionados para una
 
 El usuario podrá dar de alta diferentes regiones, editarlas y eliminarlas. A su vez, aparecerá una tabla que mostrara las mismas. Por otro lado, podrá hacer lo mismo para destinos. 
 
-# Fotos del Projecto
+## Fotos del Projecto
 
 <img src="/public/imagenes/agencia_project.png" width="400" alt="foto_proyecto">
 <img src="/public/imagenes/update_agencia_project.png" width="400" alt="foto_proyecto">
